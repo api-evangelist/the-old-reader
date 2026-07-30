@@ -1,4 +1,16 @@
 aid: the-old-reader
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/the-old-reader.png
 name: The Old Reader
 description: "RSS reader"
 url: https://github.com/theoldreader/api
