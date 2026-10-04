@@ -39,7 +39,6 @@ apis:
   - name: The Old Reader
     description: "RSS reader"
     humanURL: https://github.com/theoldreader/api
-    baseURL: https://github.com/theoldreader/api
     tags:
       - News
     properties:
